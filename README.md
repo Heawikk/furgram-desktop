@@ -1,14 +1,15 @@
 # FurGram [🕛In Progress]
 ![](https://i.imgur.com/J9oUQI6.png)
+### [FurGram Telegram Channel](https://t.me/furgramuwu)
 
 ## 📃 To-Do
-### [ClickMe!](https://github.com/users/Heawikk/projects/3)
+[ClickMe!](https://github.com/users/Heawikk/projects/3)
 
 ## ➕ Features
 * `Local Telegram Premium`
 * `History of removed messages`
 * `Ghost Mode`
-* `Fluffs and Furs :з`
+* `Fluffs and Furs UwU`
 * `and more`
 
 ## 🖥️ Supported OS
